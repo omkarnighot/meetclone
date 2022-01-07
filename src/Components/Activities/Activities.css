@@ -1,0 +1,13 @@
+.activites-icon{
+  padding: 8px;
+}
+.act-btn{
+  background: transparent;
+}
+.MuiPaper-root{
+  width : 20%;
+  border-radius: 18px;
+  height: 88vh !important;
+  margin : 0.5%;
+  padding : 5%  ;
+}
